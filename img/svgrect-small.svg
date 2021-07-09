@@ -1,15 +1,16 @@
-<svg width="355" height="89" xmlns="http://www.w3.org/2000/svg">
+<svg width="313" height="119.99999999999999" xmlns="http://www.w3.org/2000/svg">
  <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+
  <g>
   <title>background</title>
-  <rect fill="#fff" id="canvas_background" height="91" width="595" y="-1" x="-1"/>
-  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
-   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  <rect x="-1" y="-1" width="315" height="122" id="canvas_background" fill="#fff"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_2" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
   </g>
  </g>
  <g>
   <title>Layer 1</title>
-  <rect id="svg_1" height="88" width="310" y="0.588788" x="0.706336" stroke-width="1.5" stroke="#E0E0E0" fill="#fff"/>
-  <ellipse ry="36" rx="36" id="svg_3" cy="1" cx="155" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#E0E0E0" fill="#fff"/>
+  <rect fill="#fff" stroke="#E0E0E0" stroke-width="1.5" x="0.706336" y="0.588788" width="310" height="117" id="svg_1"/>
+  <ellipse fill="#fff" stroke="#E0E0E0" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" cx="155" cy="1" id="svg_3" rx="36" ry="36"/>
  </g>
 </svg>
